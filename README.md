@@ -5,7 +5,7 @@ Vladimir Moskalenko
 * Swift
 * C++(a little bit)
 # >>> Programming apps
-* * IDLE(try not to use it)
+* IDLE(try not to use it)
 * Visual Studio Code - Insiders
 * Xcode 12
 * Arduino
