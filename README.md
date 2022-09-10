@@ -1,9 +1,9 @@
 <div align="center">
 
-### Hi, I'm Vladimir!
-**What I've worked in**
+### Hi, my name is Vladimir!
+**My programming languages:**
   
-[![My Skills](https://skillicons.dev/icons?i=python,swift,github)]()
+[![My Skills](https://skillicons.dev/icons?i=python,swift,github,html,javascript)]()
   
 ### Stats
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=itstotallyjan&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
