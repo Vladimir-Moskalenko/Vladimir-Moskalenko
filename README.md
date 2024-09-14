@@ -13,5 +13,4 @@
 ## You can pay a visit to my GitHub website if you like!
   <a href = "https://vladimir-moskalenko.github.io/index.html">vladimir-moskalenko.github.io</a>
 ### You can download/view my projects here:
-  <a href = "https://vladimir-moskalenko.github.io/projects.html">View on my website</a> or
-  <a href = "https://vladimir-moskalenko.github.io/Files/Installers/AppL.pkg">download the AppL app - an app to view download my other apps</a>
+  <a href = "https://vladimir-moskalenko.github.io/projects.html">View on my website</a>
